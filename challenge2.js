@@ -3,7 +3,7 @@
 
 // let speedLimit = 70 ;
 // let demeritPoint = 0;
-// let moreSpeed = speedLimit + 5 ;
+// 
 
 
 
